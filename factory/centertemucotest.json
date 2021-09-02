@@ -1,0 +1,9 @@
+{
+	"name": "centertemucotest",
+	"location": "southcentralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1d4d531b-68a8-4c49-b0a5-266772a87e93",
+		"tenantId": "90142ba9-bca7-44ba-b7f3-51063a227825"
+	}
+}
